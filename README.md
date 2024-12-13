@@ -41,9 +41,12 @@ import { Switch } from 'react-native-ui-switch';
 </span>
     <span>Android</span>
 <span>
+
+
 <img src="https://github.com/user-attachments/assets/632bcc63-632d-4541-9c36-a8d84d26a8e5" width="256">
 </span>
 
 
+https://github.com/user-attachments/assets/e57fc99c-8cca-457d-8f55-878495a5ce65
 
 
