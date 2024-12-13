@@ -5,12 +5,24 @@ Follow the instuctions in the link.
 https://docs.swmansion.com/react-native-reanimated/
 
 # How to install
-npm i react-native-ui-switch<br />
-yarn add react-native-ui-switch<br />
+```
+yarn add react-native-ui-switch
+```
+---- or via npm -----<br/>
+```
+npm i react-native-ui-switch
+```
 
 # How to use
-import { Switch } from 'react-native-ui-switch';<br/>
-<Switch value={true} onValueChange={() => {}} /><br/>
+```
+import { Switch } from 'react-native-ui-switch';
+
+<Switch
+ value={true}
+ onValueChange={() => {}}
+/>
+```
+
 
 # Props
 
