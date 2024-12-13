@@ -1,6 +1,6 @@
 {
-  "name": "@zvukamar/react-native-switch",
-  "version": "1.0.0",
+  "name": "react-native-ui-switch",
+  "version": "1.0.3",
   "main": "index.ts",
   "scripts": {
     "start": "expo start",
