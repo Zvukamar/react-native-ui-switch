@@ -1,9 +1,9 @@
 import { useState } from 'react';
 import { SafeAreaView, StyleSheet, Text, View } from 'react-native';
-import { Switch } from 'react-native-ui-switch';
+import { Switch } from '../switch/components/Switch';
 
-const App = () => {
-  const [_, onChangeValue] = useState(false);
+const Example = () => {
+  const [value, onChangeValue] = useState(false);
   return (
     <SafeAreaView style={styles.safeAreaView}>
       <View style={styles.container}>
@@ -80,7 +80,7 @@ const App = () => {
   );
 }
 
-export default App;
+export default Example;
 
 const styles = StyleSheet.create({
   safeAreaView: {
