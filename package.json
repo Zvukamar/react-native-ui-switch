@@ -23,5 +23,23 @@
   },
   "description": "Cross platform animated Switch button for ios and android",
   "author": "Zvukamar",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "example": "example"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zvukamar/react-native-ui-switch.git"
+  },
+  "keywords": [
+    "react-native",
+    "switch",
+    "ui",
+    "button",
+    "reanimated"
+  ],
+  "bugs": {
+    "url": "https://github.com/Zvukamar/react-native-ui-switch/issues"
+  },
+  "homepage": "https://github.com/Zvukamar/react-native-ui-switch#readme"
 }
